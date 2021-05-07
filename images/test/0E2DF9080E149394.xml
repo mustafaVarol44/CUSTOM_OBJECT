@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0E2DF9080E149394.jpg</filename>
+	<path>C:\Users\musti\OneDrive\Masaüstü\Youtube-20210507T062643Z-001\Youtube\custom_objects\images\0E2DF9080E149394.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>portakal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>39</ymin>
+			<xmax>531</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>
